@@ -1,0 +1,4 @@
+# Created at 2021-12-30T18:36:54.750
+Boot Manifest-JAR contains absolute paths in classpath 'D:\STS4.0\Documents(Save WorkSpaces)\workspace-spring-tool-suite-4-4.12.1.RELEASE\KekaClock_out\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
